@@ -12,5 +12,6 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+	$title = "Dashboard";
+    return view('admin.dashboard')->with('title', $title);
 });
