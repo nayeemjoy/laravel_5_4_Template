@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "Laravel 5.4 Template",
+    "description": "A Template Using Laravel 5.4",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
